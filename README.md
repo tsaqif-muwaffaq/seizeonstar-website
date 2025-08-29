@@ -28,3 +28,10 @@ Dibuat sebagai bagian dari evaluasi materi HTML, CSS, Git/GitHub, dan dasar stru
 ---
 
 ## 📂 Struktur Folder
+/seizeonstar
+├── index.html          -> Landing Page
+├── style.css           -> CSS utama
+├── /assets             -> Logo, gambar flowchart, ERD, dll
+├── /projects
+│    └── catalog.html   -> Halaman detail katalog produk
+└── README.md           -> Deskripsi proyek di GitHub
